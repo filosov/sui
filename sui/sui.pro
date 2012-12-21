@@ -20,7 +20,8 @@ CONFIG (debug, debug|release) {
 SUBDIRS = core \
             plugins/sc-core \
             plugins/scg \
-            app
+            app #\
+#            plugins/ScStoragePluginProject
 
 
 
